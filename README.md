@@ -13,7 +13,7 @@ Este proyecto implementa una clase `ProductManager` en JavaScript, la cual gesti
 Para utilizar este proyecto, clona el repositorio en tu máquina local:
 
 ```
-git clone https://github.com/Gona79/bkendClase2.git  
+git clone https://github.com/Backend2024/clase2.git 
 ```
 
 ## Uso
@@ -46,4 +46,4 @@ Las contribuciones son bienvenidas. Si deseas contribuir, por favor haz un fork 
 
 ## Licencia
 MIT
-Este `README.md` proporciona una descripción general del proyecto, instrucciones sobre cómo instalarlo y usarlo, detalles sobre las pruebas realizadas y cómo contribuir. Puedes modificarlo según las necesidades específicas de tu proyecto y la URL del repositorio.
+Este `README.md` proporciona una descripción general del proyecto, instrucciones sobre cómo instalarlo y usarlo, detalles sobre las pruebas realizadas y cómo contribuir. 
